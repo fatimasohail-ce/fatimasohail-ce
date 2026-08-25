@@ -59,7 +59,7 @@ A C++ based traffic simulation system that models a road network using graph the
 * Traffic signal control
 * Time-step based simulation
 
-🔗 
+🔗 https://github.com/fatimasohail-ce/Traffic-System
 
 ---
 
@@ -76,7 +76,7 @@ A digital traffic signal simulation project developed using Verilog.
 * Digital system design
 * Simulation and waveform analysis
 
-🔗 
+🔗 https://github.com/fatimasohail-ce/traffic-signal-countdown-verilog
 
 ---
 
@@ -91,7 +91,7 @@ A project focused on memory management concepts and the implementation of an MMU
 * Computer architecture
 * Hardware/software interaction
 
-🔗 
+🔗 https://github.com/fatimasohail-ce/virtual-memory-mmu-simulator
 
 ---
 
