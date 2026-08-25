@@ -117,8 +117,8 @@ A simulator project developed to explore computer architecture and system-level 
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [My LinkedIn]([YOUR-LINKEDIN-LINK](https://www.linkedin.com/in/fatima-sohail-ce?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
-* 💻 GitHub: [My GitHub]([https://github.com/YOUR-USERNAME](https://github.com/fatimasohail-ce))
+* 💼 LinkedIn: [My LinkedIn] (https://www.linkedin.com/in/fatima-sohail-ce?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+* 💻 GitHub: [My GitHub] (https://github.com/fatimasohail-ce)
 
 ---
 
