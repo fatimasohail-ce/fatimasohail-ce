@@ -95,14 +95,6 @@ A project focused on memory management concepts and the implementation of an MMU
 
 ---
 
-### 🖥️ EMU Simulator
-
-A simulator project developed to explore computer architecture and system-level concepts through software-based simulation.
-
-🔗 
-
----
-
 ## 📊 Areas I'm Exploring
 
 * Computer Architecture
